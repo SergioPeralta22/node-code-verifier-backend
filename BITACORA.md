@@ -69,8 +69,8 @@ npm i -D serve //
 10. crear la carpeta __tests__ y el archivo index.test.ts
 11. instalar y configurar el serve.
     "serve:coverage": "npm run test && cd coverage/lcov-report && npx serve"
-     
 
+12.configurar gitignore en gitignore.io
 
 
 notas:
